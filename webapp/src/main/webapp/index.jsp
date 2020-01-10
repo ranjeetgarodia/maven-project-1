@@ -1,4 +1,3 @@
 Hello, I am deployed via CI/CD
-running using github-webhook script using job1
 \n deploying using private Ip in jenkins job
-running using master-slave configuration deployment
+running using master using https://github.com/ranjeetgarodia/maven-project-1
